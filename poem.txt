@@ -3,6 +3,8 @@ The Rainbow and the unicorn
 Purple
 Violet
 Red
+Indigo
+Blue
 Yellow
 Green
 
